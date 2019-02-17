@@ -7,7 +7,6 @@ install:
 # command to run tests
 script:
   - pytest
-  - echo CIAO
 # command to say goodby
 #script:
 #  - echo CIAO
