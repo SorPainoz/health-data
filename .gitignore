@@ -1,0 +1,9 @@
+# IDE crap
+.idea/
+
+# cache
+*__pycache__
+
+# virtual environment, requirements.txt is committed though
+venv
+
