@@ -6,5 +6,7 @@ install:
   - pip install -r requirements.txt
 # command to run tests
 script:
-# - pytest
+  - pytest
+# command to say goodby
+script:
   - echo CIAO
