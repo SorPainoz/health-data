@@ -10,7 +10,7 @@ setup(
     author="Igor Piroli",
     author_email='piroligor@gmail.com',
     
-    name='hd_dumper',
+    name='hd-dumper',
     version='0.1.0',
     
     py_module=['health_data_dumper'],
