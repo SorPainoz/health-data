@@ -8,5 +8,5 @@ install:
 script:
   - pytest
 # command to say goodby
-script:
-  - echo CIAO
+#script:
+#  - echo CIAO
