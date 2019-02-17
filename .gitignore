@@ -4,6 +4,10 @@
 # cache
 *__pycache__
 
+# pytest cache
+.pytest_cache
+
+
 # virtual environment, requirements.txt is committed though
 venv
 
