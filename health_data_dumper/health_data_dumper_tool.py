@@ -39,5 +39,10 @@ def dump_month():
     pass
 
 
+@cli.command()
+def dump_this_month():
+    pass
+
+
 if __name__ == '__main__':
     print('main')
