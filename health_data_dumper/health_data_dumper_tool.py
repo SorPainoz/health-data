@@ -44,5 +44,15 @@ def dump_this_month():
     pass
 
 
+@cli.command()
+def this_year():
+    pass
+
+
+@cli.command()
+def history():
+    pass
+
+
 if __name__ == '__main__':
     print('main')

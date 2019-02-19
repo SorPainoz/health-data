@@ -1,8 +1,14 @@
 atomicwrites==1.3.0
 attrs==18.2.0
 Click==7.0
+-e git+https://github.com/SorPainoz/health-data.git@600c34dd81c1394d3229df12286fc5492c787ff0#egg=hd_dumper
+httplib2==0.12.1
 more-itertools==6.0.0
+oauth2client==4.1.3
 pluggy==0.8.1
 py==1.7.0
+pyasn1==0.4.5
+pyasn1-modules==0.2.4
 pytest==4.2.1
+rsa==4.0
 six==1.12.0

@@ -9,10 +9,10 @@ setup(
     author="Igor Piroli",
     author_email='piroligor@gmail.com',
 
-    name='hd-dumper',
+    name='gg-dump',
     version='0.1.0',
 
-    description='The goal of the tool is dowload and process data from sources like google fit and fitbit so that data packages can be made available to apps such as icig or simply for data science pourposes',
+    description='The goal of the tool is dowload and process data from sources like google fit (and fitbit) so that data packages can be made available to apps such as icig or simply for data science pourposes',
 
     entry_points={
         'console_scripts': [
